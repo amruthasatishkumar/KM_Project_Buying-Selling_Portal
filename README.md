@@ -1,4 +1,4 @@
-#**KNOWLEDGE MANAGEMENT - BUYING AND SELLING PORTAL 
+#**KNOWLEDGE MANAGEMENT - BUYING AND SELLING PORTAL**
 
 ##KNOWLEDGE MANAGEMENT - UE17CS342
 
@@ -15,7 +15,7 @@ SRN : PES1201701814
 04 Neha ND
 SRN : PES1201700742
 
-####**Overview** 
+**Overview** 
 
 Our Project is an e-shopping platform, where the users can either buy or sell products , old or new hasslefree. 
 We aim to connect the buyer and seller on one platform for relevant knowledge exchange. 
