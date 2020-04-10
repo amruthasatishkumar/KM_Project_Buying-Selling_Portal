@@ -35,5 +35,13 @@ Categorisation
 Administration
 Collaboration
 
-Presentation : 
-Video : 
+WORKFLOW OF PORTAL 
+User SignUp/Login
+Admin Login
+Create Advertisement 
+Admin has to approve/delete ( Price analysis graph available for making decicions )
+The buyer can express interest through the message option
+The seller receives a notification and contact the buyer further for completing the transaction.
+The filtering of products based on category and prices can be done.
+
+
